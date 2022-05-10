@@ -44,3 +44,20 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+# React_Studies_1
+Estudo de front com React para PI 2 - Univesp - Via Alura
+
+Na pasta que for dar início ao repositório: 
+  *git config --global user.email "seuEmail@servidor.com"
+  *git config --global user.name "seuUsuario"
+  *git init;
+  *git add --all;
+  *git commit -m "First Commit - React initial Project" 
+  *git branch -M main
+  *git remote add origin git@github.com:frlps/alura-studies.git
+  
+  Para clonar: git clone https://github.com/frlps/alura-studies.git
+
+  Para iniciar: $ npm start (Na raiz da pasta alura-studies)
