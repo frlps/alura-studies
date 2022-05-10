@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+# Nesta pasta temos os componentes os quais desejamos que os robôs do Google vejam, e abaixo os que não.
+User-agent: *
+Disallow:
